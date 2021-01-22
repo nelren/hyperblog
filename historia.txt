@@ -1,3 +1,4 @@
 Hola,
 Este es mi primer archvo en GIt.
-Gracias amigos míos.
+
+Hola que tal
